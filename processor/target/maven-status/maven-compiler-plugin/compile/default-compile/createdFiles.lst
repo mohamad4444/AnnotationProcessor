@@ -1,0 +1,6 @@
+com\mohamad4444\github\BuilderProcessor.class
+com\mohamad4444\github\DbEntity.class
+com\mohamad4444\github\DbField.class
+com\mohamad4444\github\Builder.class
+com\mohamad4444\github\AbstractDB.class
+META-INF\services\javax.annotation.processing.Processor
