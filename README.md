@@ -1,6 +1,8 @@
 # Java Annotation Processor
 
-A simple Java annotation processor that generates database entity classes at compile-time, reducing boilerplate code for database operations.
+A simple Java annotation processor that generates database entity classes at compile-time, reducing boilerplate code for database operations. 
+
+This project was made to understand how annotation processors work and how to use them, especially to deeply understand Spring Boot's JPA annotations. and make it possible to generate our custom annotations for database entities. 
 
 ## Features
 
