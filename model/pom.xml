@@ -10,6 +10,12 @@
 
   <modelVersion>4.0.0</modelVersion>
   <artifactId>model</artifactId>
+  <name>Example Models</name>
+  <description>
+      Example module demonstrating usage of the annotation processor.
+      Contains sample DTOs annotated with @DbEntity and @DbField to show how the processor generates code.
+      The processor dependency is configured in the maven-compiler-plugin annotationProcessorPaths.
+  </description>
 
   <properties>
     <maven.compiler.source>11</maven.compiler.source>

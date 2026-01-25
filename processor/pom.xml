@@ -12,6 +12,11 @@
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>processor</artifactId>
+    <name>Annotation Processor</name>
+    <description>
+        Core annotation processor module containing annotation definitions (@DbEntity, @DbField, @Builder)
+        and the BuilderProcessor class that generates database entity classes at compile-time.
+    </description>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
