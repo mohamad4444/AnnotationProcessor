@@ -1,5 +1,8 @@
 # Java Annotation Processor
 
+## 🤖 AI Usage Disclosure
+This project is **AI-Assisted**. The core logic for the annotation processor was written manually in September 2024. AI tools were introduced in January 2026 (starting from commit `cc43b3d`) exclusively to generate JavaDocs, simplify the project documentation (`README.md`), and update project metadata.
+
 A simple Java annotation processor that generates database entity classes at compile-time, reducing boilerplate code for database operations. 
 
 This project was made to understand how annotation processors work and how to use them, especially to deeply understand Spring Boot's JPA annotations. and make it possible to generate our custom annotations for database entities. 
